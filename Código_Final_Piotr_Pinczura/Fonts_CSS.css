@@ -1,0 +1,8 @@
+@font-face{
+  font-family: 'OpenSansBold';
+  src: url("Fonts/OpenSans-Bold.woff2") format('woff2');
+}
+@font-face{
+  font-family: 'OpenSans';
+  src: url("Fonts/OpenSans-Regular.woff2") format('woff2');
+}

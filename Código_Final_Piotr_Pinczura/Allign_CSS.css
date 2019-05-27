@@ -1,0 +1,13 @@
+.flex
+{
+  display: flex;
+  align-content: flex-end;
+}
+.flex__item
+{
+  flex-grow: 1;
+}
+.flex__item:nth-child(3)
+{
+  order: -1;
+}
